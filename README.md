@@ -1,3 +1,4 @@
+
 ﻿# TP DAR – Calculatrice Client/Serveur TCP (Java)
 
 
@@ -192,3 +193,5 @@ Toutes les captures sont disponibles dans le dossier [`captures/`](captures/).
 | `img_11.png` | Fin de communication (client) |
 | `img_12.png` | Serveur : client connecté |
 | `img_13.png` | Logs serveur – récapitulatif |
+
+
